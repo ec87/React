@@ -1,0 +1,9 @@
+.brand {
+    height: 2em;
+    padding: 0.5;
+    
+  }
+  .brand:hover {
+    filter: drop-shadow(0 0 2em #E90A0A);
+    border-color: #E90A0A;
+  }

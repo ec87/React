@@ -1,7 +1,7 @@
 const ItemListContainer = ({greeting}) => {
     return (
         <main>
-            <h1>{greeting}</h1>
+            <h1 style = {{color:'#FFFFFF', fontSize: 30}}>{greeting}</h1>
         </main>
     )
 }
